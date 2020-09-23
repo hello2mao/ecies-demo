@@ -17,3 +17,5 @@ cov_report
 **/*_t.c
 **/*_t.h
 **/*_t.o
+**/.idea
+**/go.sum
